@@ -1,0 +1,2 @@
+# SmartHome
+AMIT SmartHome Project
